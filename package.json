@@ -1,0 +1,19 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Criador automatica de video",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Video",
+    "Youtube",
+    "Maker"
+  ],
+  "author": "Eduardo F Oliveira<eduardo_felipe_oliveira>",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
